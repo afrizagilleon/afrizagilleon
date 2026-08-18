@@ -1,4 +1,4 @@
-## Afriza Gilleon Ginting
+## Afriza G Ginting | Izagile
 
 I build execution infrastructure for AI agents — the layer between a model and
 the systems it is supposed to operate.
